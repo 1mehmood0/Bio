@@ -7,7 +7,7 @@
 
 </aside>
 
-[About ](Syed%20Mohammad%20Mehmood%20bb6a438dea8e46258faab55bed78b2ba/About%201e10f6e838b84e139b366d50d3420360.md)
+[About ](https://syedmehmood.notion.site/About-1e10f6e838b84e139b366d50d3420360?pvs=4)
 
 [Resume](Syed%20Mohammad%20Mehmood%20bb6a438dea8e46258faab55bed78b2ba/Resume%20243ff767bd864b79909506fa5b5c2e61.md)
 
