@@ -19,7 +19,7 @@
 
 Since most of the internships made work confidential , he cannot exactly share what he did. He’ll try to summaries some work below with tech stack and the approach he as beginner took. And there are many instances where it could have been improved significantly. He’ll add more docs…
 
-[My Work](Syed%20Mohammad%20Mehmood%20bb6a438dea8e46258faab55bed78b2ba/My%20Work%2046022a3012ee4464851315d24aed9777.csv)
+[My Work](https://syedmehmood.notion.site/46022a3012ee4464851315d24aed9777?v=7a51243131f544ddb997355ab9edeee1&pvs=4)
 
 ## 🏆Achievements
 
