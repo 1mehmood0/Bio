@@ -9,9 +9,9 @@
 
 [About ](https://syedmehmood.notion.site/About-1e10f6e838b84e139b366d50d3420360?pvs=4)
 
-[Resume](Syed%20Mohammad%20Mehmood%20bb6a438dea8e46258faab55bed78b2ba/Resume%20243ff767bd864b79909506fa5b5c2e61.md)
+[Resume](https://drive.google.com/file/d/1BNR1aGDsJmGRO1BNWGJaRGNvPTjzOvFo/view?usp=drive_link)
 
-[Journey as a backend dev(Brief).](Syed%20Mohammad%20Mehmood%20bb6a438dea8e46258faab55bed78b2ba/Journey%20as%20a%20backend%20dev(Brief)%205f50a4df0a834de08db96b09c724318f.md)
+[Journey as a backend dev(Brief).](https://syedmehmood.notion.site/Journey-as-a-backend-dev-Brief-5f50a4df0a834de08db96b09c724318f?pvs=4)
 
 ***During his 1.5 years of internship, Mehmood gained experience in developing web applications using Node.js and Spring. He worked on various projects that involved building RESTful APIs, integrating third-party APIs, and implementing real-time communication using WebSocket. Overall, his experience with Node.js /Java + NoSQL/SQL Databases along with AWS/Azure cloud services has been invaluable in developing scalable and performant web applications.***
 
